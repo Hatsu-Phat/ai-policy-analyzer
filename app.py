@@ -140,7 +140,7 @@ HTML_TEMPLATE = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Phân tích Chính sách (Google Grounding)</title>
+    <title>Phân tích và Hoàn thiện Thể Chế</title>
     <style>
         body { font-family: 'Segoe UI', sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f0f2f5; }
         .chat-container { background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
@@ -223,7 +223,7 @@ HTML_TEMPLATE = """
 <body>
     <div class="chat-container">
         <h1>Hệ thống Phân tích & Hoàn thiện Thể chế</h1>
-        <p class="desc">Nhóm 6 - UIT SS006.Q13</p>
+        <p class="desc">Nhóm 6 - UIT SS008.Q13</p>
         
         <div class="input-section">
             <input type="text" id="topicInput" placeholder="Nhập chủ đề (VD: Kinh tế số, Thủ tục đầu tư nước ngoài, Luật đất đai, ...)" onkeypress="if(event.key==='Enter') analyze()">
